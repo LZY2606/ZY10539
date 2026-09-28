@@ -1,0 +1,101 @@
+# Project-specific generated files
+docs/source/_static/CLIENT.dot
+docs/source/_static/CLIENT.svg
+docs/source/_static/SERVER.dot
+docs/source/_static/SERVER.svg
+docs/source/_static/special-states.dot
+docs/source/_static/special-states.svg
+docs/build/
+
+bench/results/
+bench/env/
+bench/h11/
+fuzz/results/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*~
+\#*
+.#*
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+/build/
+/develop-eggs/
+/dist/
+/eggs/
+/lib/
+/lib64/
+/parts/
+/sdist/
+/var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+.pytest_cache
+
+# Translations
+*.mo
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+
+# Rope
+.ropeproject
+
+# Django stuff:
+*.log
+*.pot
+
+# Sphinx documentation
+doc/_build/
+
+# --- 依赖与构建产物（不进交付快照）---
+node_modules/
+bower_components/
+.pnp.*
+dist/
+build/
+out/
+target/
+.next/
+.nuxt/
+.svelte-kit/
+.venv/
+venv/
+env/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+vendor/bundle/
+Pods/
+.gradle/
+.cargo/
+.DS_Store
+.env
+.env.*
+coverage/
+.nyc_output/
+.cache/
+.parcel-cache/
+.vite/
+.turbo/
+*.tsbuildinfo
